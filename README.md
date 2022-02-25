@@ -1,1 +1,3 @@
-# FE07B_progetto_settimana11
+Progetto Settimana 11
+
+installare bootstrap tramite terminale.
